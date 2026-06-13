@@ -57,4 +57,4 @@ MIT
 ---
 
 **Auteur :** Gaetan PRUVOT  
-*Spec-Driven Quant Engineer | Systematic Trader | Software Tester | Certified IBM AI Developer*
+*Spec-Driven Quant | Systematic Trader | Software Tester | Certified IBM AI Developer*
