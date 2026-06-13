@@ -52,7 +52,7 @@ Le dépôt est structuré en cinq modules de référence autonomes contenant les
 
 ## 📝 Licence
 
-[Insérer ici les informations sur la licence choisie, par exemple : Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.]
+MIT
 
 ---
 
